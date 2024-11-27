@@ -21,9 +21,9 @@ Feel free to CLICK ON A LINK that interests you…
 ------------
 ------------
 
-### 🔗 Cyber Threat Intelligence (CTI)
+## 🔗 Cyber Threat Intelligence (CTI)
 
-<h3>📜 CTI Credentials</h3> 
+<h2>📜 CTI Credentials</h2> 
 
 <ins>Cyber Threat Intelligence 101</ins> | <b>Antisyphon Training</b> – Mr. Wade Wells <br />
 Illustrated why feedback is key, the Lockheed Kill Chain, Pyramid of Pain, threat intelligence platforms & OSINT feeds.
@@ -48,6 +48,8 @@ Covered types of threat vectors & vulnerabilities from an organization’s persp
 <ins>Introduction to Cyber Intelligence</ins> (ICW FedVTE) | <b>CISA</b>
 
 <ins>Cyber Threat Intelligence</ins> | <b>IBM</b>
+
+------------
 
 ### 📝 Tradecraft Notes
 
