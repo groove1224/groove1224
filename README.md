@@ -66,7 +66,7 @@ Covered types of threat vectors & vulnerabilities from an organization’s persp
 
 ### Lifecycle Notes
 
-- Note 1: Reconciling 3 Models of the Cyber Threat Intelligence Lifecycle - Chris Cochran, Gary Ruddell & Recorded Future
+- Note 1: [Reconciling 3 Models of the Cyber Threat Intelligence Lifecycle](https://github.com/groove1224/CTI-Lifecycle-Notes-1?tab=readme-ov-file#readme) - Chris Cochran, Gary Ruddell & Recorded Future
 
 ![cti3intellifecycles](https://github.com/user-attachments/assets/1ddfbf79-197d-4636-a235-fdc84f3e7fd1)
 
