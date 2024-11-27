@@ -57,7 +57,7 @@ Covered types of threat vectors & vulnerabilities from an organization’s persp
 
 ### 📜 CTI Report Outlines
 
-### Threat Actor Profile Outlines
+#### Threat Actor Profile Outlines
 - Executive Stakeholder - Threat Actor Profile Report Outline
 - Operational Stakeholder - Threat Actor Profile Report Outline
 
